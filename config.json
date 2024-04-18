@@ -1,0 +1,9 @@
+{
+  "assistant_name": "Simple OpenAI Assistant",
+  "assistant_id": "",
+  "Model": "gpt-3.5-turbo",
+  "prompt": "You are a simple assistant that helps users with their day-to-day tasks",
+  "vector_db_id": "",
+  "files": [],
+  "temperature": "0.7"
+}
