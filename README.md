@@ -1,4 +1,4 @@
-# OpenAI Assistant (v1 & v2)
+# OpenAI Assistant V2
 An end to end openai assistant v2 (new) wrapper for full functionality. WIP. Should be ready before 20th April, 2024
 
 ## Features
